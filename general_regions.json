@@ -1,0 +1,1322 @@
+[
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Afghanistan",
+    "region_code": "AF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Africa",
+    "region_code": "RAF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Albania",
+    "region_code": "AL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Algeria",
+    "region_code": "DZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "American Samoa",
+    "region_code": "AS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Angola",
+    "region_code": "AO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Antigua and Barbuda",
+    "region_code": "AG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Argentina",
+    "region_code": "AR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Armenia",
+    "region_code": "AM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Aruba",
+    "region_code": "AW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Asia",
+    "region_code": "RAS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Australia",
+    "region_code": "AU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Austria",
+    "region_code": "AT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Azerbaijan",
+    "region_code": "AZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bahamas",
+    "region_code": "BS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bahrain",
+    "region_code": "BH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bangladesh",
+    "region_code": "BD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Barbados",
+    "region_code": "BB"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Belarus",
+    "region_code": "BY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Belgium",
+    "region_code": "BE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Belize",
+    "region_code": "BZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Benin",
+    "region_code": "BJ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bhutan",
+    "region_code": "BT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bolivia",
+    "region_code": "BO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bosnia and Herzegovina",
+    "region_code": "BA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Botswana",
+    "region_code": "BW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Brazil",
+    "region_code": "BR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "British Virgin Islands",
+    "region_code": "VG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Brunei",
+    "region_code": "BN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Bulgaria",
+    "region_code": "BG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Burkina Faso",
+    "region_code": "BF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Burundi",
+    "region_code": "BI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cambodia",
+    "region_code": "KH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cameroon",
+    "region_code": "CM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Canada",
+    "region_code": "CA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cape Verde",
+    "region_code": "CV"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cayman Islands",
+    "region_code": "KY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Central African Republic",
+    "region_code": "CF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Chad",
+    "region_code": "TD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Chile",
+    "region_code": "CL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "China",
+    "region_code": "CN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Colombia",
+    "region_code": "CO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Comoros",
+    "region_code": "KM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Congo",
+    "region_code": "CG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cook Islands",
+    "region_code": "CK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Costa Rica",
+    "region_code": "CR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cote d'Ivoire",
+    "region_code": "CI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Croatia",
+    "region_code": "HR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cuba",
+    "region_code": "CU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Cyprus",
+    "region_code": "CY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Czechia",
+    "region_code": "CZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Democratic Republic of Congo",
+    "region_code": "CD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Denmark",
+    "region_code": "DK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Djibouti",
+    "region_code": "DJ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Dominica",
+    "region_code": "DM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Dominican Republic",
+    "region_code": "DO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Ecuador",
+    "region_code": "EC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Egypt",
+    "region_code": "EG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "El Salvador",
+    "region_code": "SV"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Equatorial Guinea",
+    "region_code": "GQ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Eritrea",
+    "region_code": "ER"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Estonia",
+    "region_code": "EE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Eswatini",
+    "region_code": "SZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Ethiopia",
+    "region_code": "ET"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Europe",
+    "region_code": "RER"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "European Union (27)",
+    "region_code": "EU-27"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Faeroe Islands",
+    "region_code": "FO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Falkland Islands",
+    "region_code": "FK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Fiji",
+    "region_code": "FJ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Finland",
+    "region_code": "FI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "France",
+    "region_code": "FR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "French Guiana",
+    "region_code": "GF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "French Polynesia",
+    "region_code": "PF"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Gabon",
+    "region_code": "GA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Gambia",
+    "region_code": "GM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Georgia",
+    "region_code": "GE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Germany",
+    "region_code": "DE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Ghana",
+    "region_code": "GH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Greece",
+    "region_code": "GR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Greenland",
+    "region_code": "GL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Grenada",
+    "region_code": "GD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guadeloupe",
+    "region_code": "GP"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guam",
+    "region_code": "GU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guatemala",
+    "region_code": "GT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guinea",
+    "region_code": "GN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guinea-Bissau",
+    "region_code": "GW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Guyana",
+    "region_code": "GY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Haiti",
+    "region_code": "HT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Honduras",
+    "region_code": "HN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Hong Kong",
+    "region_code": "HK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Hungary",
+    "region_code": "HU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Iceland",
+    "region_code": "IS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "India",
+    "region_code": "IN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Indonesia",
+    "region_code": "ID"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Iran",
+    "region_code": "IR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Iraq",
+    "region_code": "IQ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Ireland",
+    "region_code": "IE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Israel",
+    "region_code": "IL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Italy",
+    "region_code": "IT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Jamaica",
+    "region_code": "JM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Japan",
+    "region_code": "JP"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Jordan",
+    "region_code": "JO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kazakhstan",
+    "region_code": "KZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kenya",
+    "region_code": "KE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kiribati",
+    "region_code": "KI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kosovo",
+    "region_code": "XK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kuwait",
+    "region_code": "KW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Kyrgyzstan",
+    "region_code": "KG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Laos",
+    "region_code": "LA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Latvia",
+    "region_code": "LV"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Lebanon",
+    "region_code": "LB"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Lesotho",
+    "region_code": "LS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Liberia",
+    "region_code": "LR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Libya",
+    "region_code": "LY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Lithuania",
+    "region_code": "LT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Luxembourg",
+    "region_code": "LU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Macao",
+    "region_code": "MO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Madagascar",
+    "region_code": "MG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Malawi",
+    "region_code": "MW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Malaysia",
+    "region_code": "MY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Maldives",
+    "region_code": "MV"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mali",
+    "region_code": "ML"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Malta",
+    "region_code": "MT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Martinique",
+    "region_code": "MQ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mauritania",
+    "region_code": "MR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mauritius",
+    "region_code": "MU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mexico",
+    "region_code": "MX"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Middle East",
+    "region_code": "RME"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Moldova",
+    "region_code": "MD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mongolia",
+    "region_code": "MN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Montenegro",
+    "region_code": "ME"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Montserrat",
+    "region_code": "MS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Morocco",
+    "region_code": "MA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Mozambique",
+    "region_code": "MZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Myanmar",
+    "region_code": "MM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Namibia",
+    "region_code": "NA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Nauru",
+    "region_code": "NR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Nepal",
+    "region_code": "NP"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Netherlands",
+    "region_code": "NL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "New Caledonia",
+    "region_code": "NC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "New Zealand",
+    "region_code": "NZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Nicaragua",
+    "region_code": "NI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Niger",
+    "region_code": "NE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Nigeria",
+    "region_code": "NG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "North America",
+    "region_code": "RNA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "North Korea",
+    "region_code": "KP"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "North Macedonia",
+    "region_code": "MK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Norway",
+    "region_code": "NO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Oceania",
+    "region_code": "OCE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Oman",
+    "region_code": "OM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Pakistan",
+    "region_code": "PK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Palestine",
+    "region_code": "PS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Panama",
+    "region_code": "PA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Papua New Guinea",
+    "region_code": "PG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Paraguay",
+    "region_code": "PY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Peru",
+    "region_code": "PE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Philippines",
+    "region_code": "PH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Poland",
+    "region_code": "PL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Portugal",
+    "region_code": "PT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Puerto Rico",
+    "region_code": "PR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Qatar",
+    "region_code": "QA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Reunion",
+    "region_code": "RE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Romania",
+    "region_code": "RO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Russia",
+    "region_code": "RU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Rwanda",
+    "region_code": "RW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Saint Kitts and Nevis",
+    "region_code": "KN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Saint Lucia",
+    "region_code": "LC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Saint Pierre and Miquelon",
+    "region_code": "PM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Saint Vincent and the Grenadines",
+    "region_code": "VC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Samoa",
+    "region_code": "WS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Sao Tome and Principe",
+    "region_code": "ST"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Saudi Arabia",
+    "region_code": "SA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Senegal",
+    "region_code": "SN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Serbia",
+    "region_code": "RS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Seychelles",
+    "region_code": "SC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Sierra Leone",
+    "region_code": "SL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Singapore",
+    "region_code": "SG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Slovakia",
+    "region_code": "SK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Slovenia",
+    "region_code": "SI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Solomon Islands",
+    "region_code": "SB"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Somalia",
+    "region_code": "SO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "South Africa",
+    "region_code": "ZA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "South Korea",
+    "region_code": "KR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "South Sudan",
+    "region_code": "SS"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Spain",
+    "region_code": "ES"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Sri Lanka",
+    "region_code": "LK"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Sudan",
+    "region_code": "SD"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Suriname",
+    "region_code": "SR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Sweden",
+    "region_code": "SE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Switzerland",
+    "region_code": "CH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Syria",
+    "region_code": "SY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Taiwan",
+    "region_code": "TW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Tajikistan",
+    "region_code": "TJ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Tanzania",
+    "region_code": "TZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Thailand",
+    "region_code": "TH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Timor",
+    "region_code": "TL"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Togo",
+    "region_code": "TG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Tonga",
+    "region_code": "TO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Trinidad and Tobago",
+    "region_code": "TT"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Tunisia",
+    "region_code": "TN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Turkey",
+    "region_code": "TR"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Turkmenistan",
+    "region_code": "TM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Turks and Caicos Islands",
+    "region_code": "TC"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Uganda",
+    "region_code": "UG"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Ukraine",
+    "region_code": "UA"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "United Arab Emirates",
+    "region_code": "AE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "United Kingdom",
+    "region_code": "GB"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "United States",
+    "region_code": "US"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "United States Virgin Islands",
+    "region_code": "VI"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Uruguay",
+    "region_code": "UY"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Uzbekistan",
+    "region_code": "UZ"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Vanuatu",
+    "region_code": "VU"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Venezuela",
+    "region_code": "VE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Vietnam",
+    "region_code": "VN"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Western Sahara",
+    "region_code": "EH"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "World",
+    "region_code": "GLO"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Yemen",
+    "region_code": "YE"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Zambia",
+    "region_code": "ZM"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Country",
+    "region/regional_conditions": "Zimbabwe",
+    "region_code": "ZW"
+  },
+  {
+    "last_update": "16/06/2023 11:23:51",
+    "region_type": "Other",
+    "region/regional_conditions": "Unknown",
+    "region_code": "UNK"
+  }
+]
